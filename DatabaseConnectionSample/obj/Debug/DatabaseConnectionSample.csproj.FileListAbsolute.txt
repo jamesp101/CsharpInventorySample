@@ -1,0 +1,9 @@
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\bin\Debug\DatabaseConnectionSample.exe.config
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\bin\Debug\DatabaseConnectionSample.exe
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\bin\Debug\DatabaseConnectionSample.pdb
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\obj\Debug\DatabaseConnectionSample.csprojResolveAssemblyReference.cache
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\obj\Debug\DatabaseConnectionSample.Form1.resources
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\obj\Debug\DatabaseConnectionSample.Properties.Resources.resources
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\obj\Debug\DatabaseConnectionSample.csproj.GenerateResource.Cache
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\obj\Debug\DatabaseConnectionSample.exe
+c:\users\jj\documents\visual studio 2015\Projects\DatabaseConnectionSample\DatabaseConnectionSample\obj\Debug\DatabaseConnectionSample.pdb
